@@ -33,6 +33,8 @@ primary grade in the first node of each clip".
 
 ## Export tab
 
+![Export tab](examples/export.png)
+
 1. Open the timeline, choose an **Output folder** (`Browse…`).
 2. Set the options, then click **EXPORT CDL**.
 3. Click a file in the list to preview it.
@@ -49,6 +51,8 @@ Options and behaviour:
 - Existing files are overwritten, and this is shown in the log.
 
 ## Import tab
+
+![Import tab](examples/import.png)
 
 1. **CDL folder**: a folder of `.cdl`, `.cc` or `.ccc` files. A `.ccc` holding several
    CDLs uses the `id` of each one.
